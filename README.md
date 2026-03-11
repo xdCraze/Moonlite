@@ -19,11 +19,8 @@
 
 ## Features
 
-* Internal ImGui menu
-* Modern UI
-* Steam version support
-* Loader with automatic injection
-* Manual DLL injection support
+* Account Modifications (Currency, Weapons etc)
+* Gameplay Features (ESP, Aimbot + More)
 
 ---
 
